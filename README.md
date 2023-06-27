@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
  </p>
  
-![alt text](./images/bottom.svg)
+![alt text](./images/bottom.png)
