@@ -1,6 +1,6 @@
 ![alt text](./images/top.png)
 
-I am full stack web developer​ having 3+ years experience specializing in the Front End technologies Javascript , jquery, React , NextJs , Redux , web3, Mobx , and backend development with ​Node​ , Express , serverles ,GraphQL , Understanding of NoSQL or SQL through Database Design, writing queries and stored procedures using databases like. MongoDB, PostgreSQL, ​,and Cloud deployment (AWS, Googlecloud , DigitalOcean ). Super handy and love Docker , Kubernetes , Linux and OS X and enjoy customizing all of the development environment.
+I am full stack web developer​ having 5+ years experience specializing in the Front End technologies Javascript , jquery, React , NextJs , Redux , web3, Mobx , and backend development with ​Node​ , Express , serverles ,GraphQL , Understanding of NoSQL or SQL through Database Design, writing queries and stored procedures using databases like. MongoDB, PostgreSQL, ​,and Cloud deployment (AWS, Googlecloud , DigitalOcean ). Super handy and love Docker , Kubernetes , Linux and OS X and enjoy customizing all of the development environment.
 
 <!--
 **joshualazar28/joshualazar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
